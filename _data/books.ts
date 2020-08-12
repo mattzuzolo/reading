@@ -361,6 +361,18 @@ const data: Data = {
       note: 'Lorem ipsum',
     },
     {
+      title: 'Recursion',
+      slug: 'recursion',
+      author: 'Blake Crouch',
+      imageSrc:
+        'https://images-na.ssl-images-amazon.com/images/I/81E0o11MkdL.jpg',
+      favorite: false,
+      stroopwafel: false,
+      reread: false,
+      genre: Genre.fiction,
+      note: 'Lorem ipsum',
+    },
+    {
       title:
         'Hunting LeRoux: The Inside Story of the DEA Takedown of a Criminal Genius and His Empire',
       shortTitle: 'Hunting LeRoux',
@@ -398,6 +410,18 @@ const data: Data = {
       stroopwafel: false,
       reread: false,
       genre: Genre.nonFiction,
+      note: 'Lorem ipsum',
+    },
+    {
+      title: 'Crazy Rich Asians',
+      slug: 'crazy-rich-asians',
+      author: 'Kevin Kwan',
+      imageSrc:
+        'https://images-na.ssl-images-amazon.com/images/I/71QkzTrrLTL.jpg',
+      favorite: false,
+      stroopwafel: false,
+      reread: false,
+      genre: Genre.fiction,
       note: 'Lorem ipsum',
     },
     {
@@ -474,7 +498,6 @@ const data: Data = {
       note: 'Lorem ipsum',
     },
   ],
-
   '2018': [
     {
       title: 'Barbarian Days: A Surfing Life',
